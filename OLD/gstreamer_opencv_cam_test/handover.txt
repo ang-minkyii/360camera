@@ -1,0 +1,3 @@
+location of SD card
+
+/media/ubuntu/e0a73a8e-8443-4c8f-97fb-25b57134763b/

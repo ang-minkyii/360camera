@@ -1,0 +1,1 @@
+curl -i -H 'Authorization: Bearer EAAL36sbOwxMBADXaN5eu9BJK4P5CAGUuyxEnIlcb0EefW63ZB3ag1DyfR9NeYVZASwz0GV7LxU0Doq1ZCXq1WVj4S6ARjJz0P1qRXZCrxoDUYneISlIOCNm22FpGBcAevQxZAz99ptfzZCqHMRAcnf8wEyBz0SpbwEiGS6zpZAROPulvos00CavIVWavaOuJroZD' -XPOST 'https://graph.facebook.com/v2.10/1246228132173708/live_videos'

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\minky\documents\visual studio 2015\projects\360_camera_gpu_accelerated\360_camera_gpu_accelerated\main.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\minky\documents\visual studio 2015\projects\360_camera_gpu_accelerated\360_camera_gpu_accelerated\main.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  360_camera_gpu_accelerated.vcxproj -> C:\Users\minky\Documents\Visual Studio 2015\Projects\360_camera_gpu_accelerated\Debug\360_camera_gpu_accelerated.exe

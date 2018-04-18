@@ -1,0 +1,121 @@
+-- Max dist : 0.531298 
+-- Min dist : 0.142458 
+points on the first picture:x,y 32.1956 294.54
+points on the second picture: x y 136.241 294.833
+points on the first picture:x,y 39.4559 269.799
+points on the second picture: x y 174.529 271.012
+points on the first picture:x,y 22.6208 270.429
+points on the second picture: x y 160.111 266.614
+points on the first picture:x,y 33.7706 264.925
+points on the second picture: x y 171.734 266.487
+points on the first picture:x,y 31.7329 241.371
+points on the second picture: x y 183.763 241.626
+points on the first picture:x,y 24.7934 173.967
+points on the second picture: x y 189.392 168.477
+points on the first picture:x,y 26.6964 263.876
+points on the second picture: x y 167.799 261.245
+points on the first picture:x,y 13.6292 175.054
+points on the second picture: x y 198.305 174.377
+points on the first picture:x,y 31.1188 274.947
+points on the second picture: x y 162.353 274.04
+points on the first picture:x,y 49.8163 190.979
+points on the second picture: x y 194.244 186.535
+points on the first picture:x,y 33.9536 219.665
+points on the second picture: x y 194.041 221.172
+points on the first picture:x,y 51.0121 184.433
+points on the second picture: x y 148.105 187.295
+points on the first picture:x,y 47.6468 287.121
+points on the second picture: x y 149.368 287.71
+image size height 320, width 215 AFTER CROP
+
+homography matrix
+homo 0.706282
+ homo -0.540353
+ homo 258.458391
+ homo 0.317655
+ homo 0.619805
+ homo 39.477261
+ homo 0.000126
+ homo -0.000737
+ homo 1.000000
+ homo 0.000000
+
+WITH HEIGHT = 768, WIDTH = 1024 RADIUS = 543
+
+-- Max dist : 0.578450 
+-- Min dist : 0.045139 
+points on the first picture:x,y 209.258 252.023
+points on the second picture: x y 516.107 246.138
+points on the first picture:x,y 217.082 140.956
+points on the second picture: x y 643.872 125.608
+points on the first picture:x,y 133.218 278.686
+points on the second picture: x y 561.108 262.758
+points on the first picture:x,y 230.693 114.933
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 234.704 92.0171
+points on the second picture: x y 651.675 75.34
+points on the first picture:x,y 220.036 32.2297
+points on the second picture: x y 577.992 24.3904
+points on the first picture:x,y 229.86 119.035
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 229.951 26.0991
+points on the second picture: x y 582.764 16.1747
+points on the first picture:x,y 65.4806 268.873
+points on the second picture: x y 482.114 252.073
+points on the first picture:x,y 231.016 112.089
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 101.67 260.929
+points on the second picture: x y 516.107 246.138
+points on the first picture:x,y 232.022 106.195
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 233.85 97.0629
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 86.8759 260.948
+points on the second picture: x y 503.812 245.084
+points on the first picture:x,y 173.729 270.879
+points on the second picture: x y 602.726 253.153
+points on the first picture:x,y 172.655 268.666
+points on the second picture: x y 602.726 253.153
+points on the first picture:x,y 204.867 250.998
+points on the second picture: x y 516.107 246.138
+points on the first picture:x,y 232.746 120.498
+points on the second picture: x y 654.103 104.994
+points on the first picture:x,y 172.693 349.433
+points on the second picture: x y 600.832 335.409
+points on the first picture:x,y 103.49 256.89
+points on the second picture: x y 525.521 240.387
+points on the first picture:x,y 141.503 261.296
+points on the second picture: x y 570.997 245.445
+points on the first picture:x,y 573.902 248.749
+points on the second picture: x y 472.924 241.193
+points on the first picture:x,y 53.1542 257.016
+points on the second picture: x y 494.801 240.895
+points on the first picture:x,y 62.3984 257.99
+points on the second picture: x y 503.812 245.084
+points on the first picture:x,y 197.907 29.9447
+points on the second picture: x y 577.992 24.3904
+points on the first picture:x,y 54.0652 254.873
+points on the second picture: x y 494.801 240.895
+points on the first picture:x,y 104.567 245.777
+points on the second picture: x y 522.454 229.799
+points on the first picture:x,y 54.604 250.761
+points on the second picture: x y 494.801 240.895
+points on the first picture:x,y 620.178 253.178
+points on the second picture: x y 444.443 246.066
+image size height 468, width 818
+the largest on image2 is 654.102722
+the largest on image1 is 53.154194
+the smallest is 444.442902
+the largest is 620.177795
+the width of the final image is 1418
+homo 0.648223
+ homo -0.172098
+ homo 461.468552
+ homo -0.085706
+ homo 0.813357
+ homo 17.135688
+ homo -0.000278
+ homo -0.000281
+ homo 1.000000
+ float homography[3][3] = {{0.648223,-0.172098,461.468552},{-0.085706,0.813357,17.135688},{-0.000278,-0.000281,1.00000}};
+	Mat H(3,3,CV_32FC1,&homography);
